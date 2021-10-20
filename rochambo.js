@@ -1,3 +1,13 @@
+// Jogo Rochambo / Joquempô (Pedra, papel e tesoura)
+// Atividade realizada em grupo para avaliação do 3º módulo do curso Web FullStack Developer ministrado pela escola Let's Code.
+
+// Integrantes:
+// Antonio Carlos da Silva Mendanha
+// Darccelio Wildson de Freitas e Silva
+// Emanoel de Sousa Pequeno
+// Thaís Mazzo da Costa
+
+
 class Game {
   constructor(){
     this.memoryPlayers = new Map();
